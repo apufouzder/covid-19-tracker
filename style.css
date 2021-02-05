@@ -1,0 +1,27 @@
+
+body {
+    background: #0a183e;
+}
+.custom-row{
+        /* background: linear-gradient(#16009e, #492cff); */
+        margin-top: 45px;
+        padding: 44px 40px;
+        /* background: white; */
+        box-shadow: 0px 0px 16px #880046;
+        border-radius: 10px;
+}
+.custom-card {
+    background: orange;
+    padding: 10px;
+    color: white;
+}
+.custom-card2{
+    background: red;
+    padding: 10px;
+    color: white;
+}
+.custom-card3{
+    background: green;
+    padding: 10px;
+    color: white;
+}
